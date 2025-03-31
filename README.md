@@ -7,7 +7,9 @@ Software Developer
 I have been working in robotics since 2020 , developing expertise in hardware and software for robotics systems, Currently I am focused on ROS2 base system.
 
 * 🧠  I'm learning TinyML on arduino with Tensorflow lite
-
+* 🔭  I’m currently working on robot powerd by ROS2 with navigation and pereption
+* ⚡  Fact: Slow is smooth, smooth is fast, Writing clean, well-structured code prevents errors, making debugging and scaling easier in the long run.
+  
 ### Skills
 
 
@@ -24,6 +26,7 @@ I have been working in robotics since 2020 , developing expertise in hardware an
 <p align="left"> <a href="https://www.github.com/robobe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://robobe.github.io/new_blog/"  target="_blank"><img src="blogger-round-svgrepo-com.svg" width="32" height="32"/></a>
 </p>
+
 ### Badges
 
 <b>Top Repositories</b>
